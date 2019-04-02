@@ -21,7 +21,7 @@ body {background-color: rgba(128,128,128, 0.15);
     from{opacity:0;top:100%}
     to{opacity:1;top:0%;}}
 
-@-ms-viewport{
+}@-ms-viewport{
   width: device-width;
 }
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
