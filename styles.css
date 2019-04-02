@@ -21,7 +21,9 @@ body {background-color: rgba(128,128,128, 0.15);
     from{opacity:0;top:100%}
     to{opacity:1;top:0%;}}
 
-
+@-ms-viewport{
+  width: device-width;
+}
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
 html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
 article,aside,details,figcaption,figure,footer,header,main,menu,nav,section,summary{display:block}
