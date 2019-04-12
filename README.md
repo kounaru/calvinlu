@@ -1,0 +1,2 @@
+# kounaru
+permalink: /index.html
